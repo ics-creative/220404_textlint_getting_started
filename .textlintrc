@@ -1,6 +1,7 @@
 {
   "rules": {
-    "textlint-rule-no-dropping-the-ra": true
+    "textlint-rule-no-dropping-the-ra": true,
+    "textlint-rule-ja-no-space-between-full-width": true
   },
   "filters": {
     "comments": true
