@@ -1,16 +1,10 @@
 {
-  "name": "220404_textlint_getting_started",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:textlint": "textlint file.md",
     "fix:textlint": "textlint --fix file.md"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "textlint": "^12.1.1",
     "textlint-filter-rule-comments": "^1.2.2",
